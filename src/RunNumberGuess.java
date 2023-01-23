@@ -1,4 +1,4 @@
-//Jiyon Chatterjee's Number Guess Game
+//©Jiyon Chatterjee's Number Guess Game, 2023
 import java.util.Scanner;
 import java.util.ArrayList;
 
